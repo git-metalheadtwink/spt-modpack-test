@@ -1,0 +1,43 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1780628835462,
+  "Materials": {
+    "Tshirt_usec_CryeAC": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "Glossness": 1.0,
+      "Specularness": 1.0,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.415094316
+      },
+      "Texture": "builtin/camos/default.png",
+      "TextureUV": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 2.0
+      },
+      "DefVals": {
+        "x": 0.9,
+        "y": 0.8
+      },
+      "CompensateSpecular": true,
+      "SpecularCompensationMultiplier": 0.2
+    }
+  }
+}

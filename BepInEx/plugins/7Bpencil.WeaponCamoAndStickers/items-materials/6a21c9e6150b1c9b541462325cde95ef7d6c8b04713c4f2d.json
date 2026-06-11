@@ -1,0 +1,43 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1780628835463,
+  "Materials": {
+    "Pants_usec_CryeAC": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.138576776,
+        "y": 0.0,
+        "z": 0.108614229
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Glossness": 0.8847005,
+      "Specularness": 0.01,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.4339623
+      },
+      "Texture": "builtin/camos/default.png",
+      "TextureUV": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 0.3939394,
+        "y": 1.13636363
+      },
+      "DefVals": {
+        "x": 1.16129029,
+        "y": 0.880645156
+      },
+      "CompensateSpecular": true,
+      "SpecularCompensationMultiplier": 0.2
+    }
+  }
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1780628681477,
+    "Name": "",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": -0.1872487,
+      "y": -6.926921E-06,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.07206193,
+      "y": 0.94588697,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.013462279,
+      "y": -0.825831831,
+      "z": 1.3092498E-06
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -1260.0
+    },
+    "LocalScale": {
+      "x": 0.116980955,
+      "y": 0.111909024,
+      "z": 0.116980955
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint"
+  }
+]

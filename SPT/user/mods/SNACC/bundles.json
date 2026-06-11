@@ -1,0 +1,8 @@
+{
+    "manifest": [
+        {
+            "key": "assets/snaccPack.bundle",
+            "dependencyKeys": []
+        }
+    ]
+}

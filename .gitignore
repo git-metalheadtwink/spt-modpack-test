@@ -1,0 +1,36 @@
+# ignore everything by default
+*
+
+# allow git metadata
+!.gitignore
+
+# -------------------------
+# WHITELIST ROOT FOLDERS
+# -------------------------
+
+!/SPT/
+!/SPT/user/
+!/BepInEx/
+
+# -------------------------
+# ALLOW REQUIRED CONTENT
+# -------------------------
+
+# SPT user data
+!/SPT/user/mods/
+!/SPT/user/mods/**
+
+# BepInEx config
+!/BepInEx/config/
+!/BepInEx/config/**
+
+# ONLY safe plugin folder
+!/BepInEx/plugins/
+!/BepInEx/plugins/**
+
+# -------------------------
+# BLACKLIST FOLDERS
+# -------------------------
+
+BepInEx/plugins/spt/
+BepInEx/plugins/HollywoodFX/

@@ -1,0 +1,43 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1780628727758,
+  "Materials": {
+    "helmet_ratnik_6B47": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.6838235
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "Glossness": 1.1,
+      "Specularness": 1.0,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.338235319
+      },
+      "Texture": "builtin/camos/default.png",
+      "TextureUV": {
+        "x": 1.69107139,
+        "y": 1.69107139,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 0.5
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 0.5
+      },
+      "CompensateSpecular": true,
+      "SpecularCompensationMultiplier": 1.0
+    }
+  }
+}
