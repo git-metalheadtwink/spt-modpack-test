@@ -5,7 +5,7 @@
 
   "compatibility": {
     "spt_min": "4.0.13",
-    "spt_max": "4.0.13"
+    "spt_max": "4.0.99",
   },
 
   "changelog": [
