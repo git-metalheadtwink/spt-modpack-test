@@ -36,6 +36,7 @@
 # -------------------------
 
 BepInEx/plugins/spt/
+BepInEx/config/BepInEx.cfg
 
 #this one ignored just because file is too big and is an optional client-side only not worth uploading everytime
 BepInEx/plugins/HollywoodFX/
