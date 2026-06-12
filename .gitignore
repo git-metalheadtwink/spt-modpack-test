@@ -16,6 +16,9 @@
 # ALLOW REQUIRED CONTENT
 # -------------------------
 
+# Manifest
+manifest.json
+
 # SPT user data
 !/SPT/user/mods/
 !/SPT/user/mods/**
@@ -33,4 +36,6 @@
 # -------------------------
 
 BepInEx/plugins/spt/
+
+#this one ignored just because file is too big and is an optional client-side only not worth uploading everytime
 BepInEx/plugins/HollywoodFX/
