@@ -17,7 +17,7 @@
 # -------------------------
 
 # Manifest
-manifest.json
+!manifest.json
 
 # SPT user data
 !/SPT/user/mods/
